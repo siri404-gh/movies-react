@@ -1,0 +1,38 @@
+body {
+    font-size: 13px;
+}
+
+.my-thumbnail {
+    /*max-width: 150px;*/
+}
+
+.row-margin {
+    margin: 5px 3px;
+}
+
+.search-row {
+    background: rgba(255, 235, 3, 0.21);
+    border: solid 1px orange;
+}
+
+.result-row {
+    background: rgba(0, 126, 255, 0.08);
+    border: solid 1px rgba(0, 0, 255, 0.15);
+}
+
+.my-row {
+    padding: 10px 10px;
+}
+
+button {
+    outline: none;
+}
+
+.small-input {
+    width: 50px;
+    margin: 0;
+}
+
+.glyphicon-star {
+    color: orange;
+}
